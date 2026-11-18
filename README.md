@@ -26,7 +26,6 @@ The first posts will likely be the write-up of the Windows → CachyOS migration
 
 - Shell: `fish` — because ergonomics is a feature
 - Daily driver: CachyOS, with all the good and honest pain that implies
-- Writing at **kihlmo.se** (Linux in plain words)
 - Weaving a small thing called **kih.li** — kinship that holds across virtual, digital, and physical realms
 
 > "Kil i mon" — leave it possible to undo, or leave the smallest mark you can.
