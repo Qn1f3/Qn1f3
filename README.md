@@ -14,9 +14,13 @@ IT operations and infrastructure, coming from the Windows/admin side of the hous
 
 ## What you'll find here
 
-- 🐧 **CachyOS migration series** — my home machine going Windows-free, documented as a repeatable path (with all the regrets included)
-- 🔧 **Admin scripts** — PowerShell from the old world, Bash and Python from the new one
+Right now: nothing, and I won't pretend otherwise. This account is where that's supposed to change. The plan:
+
+- 🐧 **CachyOS migration notes** — my home machine going Windows-free, documented as a repeatable path (regrets included)
+- 🔧 **A setup script** — my own reinstall runbook, so a fresh machine gets back on track fast; finding and installing the software I actually want, scripted instead of remembered
 - 📓 **Runbooks and notes** — ops knowledge that belongs in text files, not in someone's head
+
+The first posts will likely come straight out of the Windows → CachyOS migration I'm in the middle of.
 
 ## Around me
 
