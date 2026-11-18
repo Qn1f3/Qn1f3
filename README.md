@@ -1,6 +1,6 @@
 # Hi, I'm Henry (`Qn1f3`) 👋
 
-IT operations and infrastructure, coming from the Windows/admin side of the house and currently moving my whole homelab and daily driver to Linux (CachyOS). Not a developer by trade, a sysadmin who scripts, documents, and believes the best infrastructure is the kind you can undo.
+IT operations and infrastructure, coming from the Windows/admin side of the house. My home machine has gone Windows-free — daily driver is CachyOS. Not a developer by trade, a sysadmin who scripts, documents, and believes the best infrastructure is the kind you can undo.
 
 ## How I reason about open source
 
@@ -8,7 +8,7 @@ IT operations and infrastructure, coming from the Windows/admin side of the hous
 
 **Gifts forward, not transactions.** I borrow a word I call a *Kihlatch*: a gift given forward, never back. It creates bonds, not debts. When I share a script, a runbook, or a blog post, I'm not trading, I'm putting value into the network and trusting it to multiply downstream. That's the whole economics of FOSS, stated plainly.
 
-**Transparency over polish.** I'd rather publish an honest, working, documented thing than a flashy half-truth. Expect my repos to say what they do, what they don't do, and where I gave up. My notes on migrating from Windows to CachyOS are written exactly like that, trade-offs and abandoned paths included.
+**Transparency over polish.** I'd rather publish an honest, working, documented thing than a flashy half-truth. Expect my repos to say what they do, what they don't do, and where I gave up. My write-up of the Windows → CachyOS migration will be exactly like that, trade-offs and abandoned paths included.
 
 **Sovereignty is practical, not political.** I like software I can self-host, audit, and exit. Not because of slogans, but because infrastructure that must keep working when things degrade shouldn't depend on a vendor's goodwill. Values-alignment is my criterion; everything else is an implementation detail.
 
@@ -16,11 +16,11 @@ IT operations and infrastructure, coming from the Windows/admin side of the hous
 
 Right now: nothing, and I won't pretend otherwise. This account is where that's supposed to change. The plan:
 
-- 🐧 **CachyOS migration notes** — my home machine going Windows-free, documented as a repeatable path (regrets included)
+- 🐧 **CachyOS migration notes** — how my home machine went Windows-free, written up as a repeatable path (regrets included)
 - 🔧 **A setup script** — my own reinstall runbook, so a fresh machine gets back on track fast; finding and installing the software I actually want, scripted instead of remembered
 - 📓 **Runbooks and notes** — ops knowledge that belongs in text files, not in someone's head
 
-The first posts will likely come straight out of the Windows → CachyOS migration I'm in the middle of.
+The first posts will likely be the write-up of the Windows → CachyOS migration I've already completed.
 
 ## Around me
 
